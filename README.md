@@ -47,7 +47,7 @@ Este comando mostrará una lista de tareas con el formato:
 
 ~~~
 Id: 1  -  Title: Aprender Python  -  Description: Completar conceptos básicos de Python  
-- Status: in-progress  -  Create at: 2024-09-25  -  Update at: 2024-09-25
+- Status: in-progress  -  Create at: 2024-09-25  -  Update at: No update
 
 ~~~
 
@@ -65,7 +65,7 @@ Title: Aprender Django
 Description: Completar el tutorial de Django
 Status: in-progress
 Created at: 2024-09-25
-Update at: "Not update"
+Update at: No update
 ~~~
 
   - 4 Actualizar una tarea existente
