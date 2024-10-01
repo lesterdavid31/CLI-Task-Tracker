@@ -58,7 +58,7 @@ def newTask(ctx, title, description,status):
             'description': description,
             'status': status,
             'createdAt': current_datetime.strftime("%Y-%m-%d %H:%M:%S"),
-            'updateAt': '',
+            'updateAt': 'No update',
         }
         data.append(new_task)
         file.write_json(data)
